@@ -1,23 +1,23 @@
 {
-  "name": "hubot-oncall",
-  "description": "This project tells you who is oncall on the current week and automatically rotates given a defined roster",
-  "version": "0.0.2",
+  "name": "hubot-matt",
+  "description": "Create a celebration matt meme",
+  "version": "0.0.1",
   "author": "Juan Pablo Ortiz <pablasso@gmail.com>",
   "license": "MIT",
 
   "keywords": [
     "hubot",
-    "hubot-scripts",
-    "oncall"
+    "hubot-scripts"
+    "meme"
   ],
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/pablasso/hubot-oncall.git"
+    "url": "git://github.com/pablasso/hubot-matt.git"
   },
 
   "bugs": {
-    "url": "https://github.com/pablasso/hubot-oncall/issues"
+    "url": "https://github.com/pablasso/hubot-matt/issues"
   },
 
   "dependencies": {
