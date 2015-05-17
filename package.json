@@ -1,0 +1,39 @@
+{
+  "name": "hubot-oncall",
+  "description": "This project tells you who is oncall on the current week and automatically rotates given a defined roster",
+  "version": "0.0.2",
+  "author": "Juan Pablo Ortiz <pablasso@gmail.com>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "oncall"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pablasso/hubot-oncall.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/pablasso/hubot-oncall/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {
+    "test": "script/test"
+  }
+}
