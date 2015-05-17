@@ -26,8 +26,8 @@ HUBOT_MEMEGEN_PASSWORD
 ```
 
 | Command                | Description     
-|------------------------|----------------------------------------------------------------------
-| `hubot matt me <text>` | Generates the celebration matt meme with the bottom caption of <text>
+|------------------------|------------------------------------------------------------------------
+| `hubot matt me <text>` | Generates the celebration matt meme with the bottom caption of `<text>`
 
 For example:
 
